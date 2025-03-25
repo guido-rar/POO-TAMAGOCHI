@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lab15-PC01\\source\\repos\\POO-TAMAGOCHI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D81FB055-AE11-4EE3-96F7-1343011E144E}|POO-TAMAGOCHI\\POO-TAMAGOCHI.csproj|c:\\users\\lab15-pc01\\source\\repos\\poo-tamagochi\\poo-tamagochi\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D81FB055-AE11-4EE3-96F7-1343011E144E}|POO-TAMAGOCHI\\POO-TAMAGOCHI.csproj|solutionrelative:poo-tamagochi\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A16D497-0843-4760-A27C-F3EE61FD332E}|Tamagochi\\Tamagochi.csproj|c:\\users\\lab15-pc01\\source\\repos\\poo-tamagochi\\tamagochi\\tamagochi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A16D497-0843-4760-A27C-F3EE61FD332E}|Tamagochi\\Tamagochi.csproj|solutionrelative:tamagochi\\tamagochi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A16D497-0843-4760-A27C-F3EE61FD332E}|Tamagochi\\Tamagochi.csproj|c:\\users\\lab15-pc01\\source\\repos\\poo-tamagochi\\tamagochi\\estadoaburrido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A16D497-0843-4760-A27C-F3EE61FD332E}|Tamagochi\\Tamagochi.csproj|solutionrelative:tamagochi\\estadoaburrido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A16D497-0843-4760-A27C-F3EE61FD332E}|Tamagochi\\Tamagochi.csproj|c:\\users\\lab15-pc01\\source\\repos\\poo-tamagochi\\tamagochi\\estadomascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A16D497-0843-4760-A27C-F3EE61FD332E}|Tamagochi\\Tamagochi.csproj|solutionrelative:tamagochi\\estadomascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A16D497-0843-4760-A27C-F3EE61FD332E}|Tamagochi\\Tamagochi.csproj|c:\\users\\lab15-pc01\\source\\repos\\poo-tamagochi\\tamagochi\\estadofeliz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A16D497-0843-4760-A27C-F3EE61FD332E}|Tamagochi\\Tamagochi.csproj|solutionrelative:tamagochi\\estadofeliz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A16D497-0843-4760-A27C-F3EE61FD332E}|Tamagochi\\Tamagochi.csproj|c:\\users\\lab15-pc01\\source\\repos\\poo-tamagochi\\tamagochi\\estadohambre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A16D497-0843-4760-A27C-F3EE61FD332E}|Tamagochi\\Tamagochi.csproj|solutionrelative:tamagochi\\estadohambre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A16D497-0843-4760-A27C-F3EE61FD332E}|Tamagochi\\Tamagochi.csproj|c:\\users\\lab15-pc01\\source\\repos\\poo-tamagochi\\tamagochi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A16D497-0843-4760-A27C-F3EE61FD332E}|Tamagochi\\Tamagochi.csproj|solutionrelative:tamagochi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lab15-PC01\\source\\repos\\POO-TAMAGOCHI\\Tamagochi\\Program.cs",
+              "RelativeDocumentMoniker": "Tamagochi\\Program.cs",
+              "ToolTip": "C:\\Users\\Lab15-PC01\\source\\repos\\POO-TAMAGOCHI\\Tamagochi\\Program.cs",
+              "RelativeToolTip": "Tamagochi\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T12:03:48.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EstadoMascota.cs",
+              "DocumentMoniker": "C:\\Users\\Lab15-PC01\\source\\repos\\POO-TAMAGOCHI\\Tamagochi\\EstadoMascota.cs",
+              "RelativeDocumentMoniker": "Tamagochi\\EstadoMascota.cs",
+              "ToolTip": "C:\\Users\\Lab15-PC01\\source\\repos\\POO-TAMAGOCHI\\Tamagochi\\EstadoMascota.cs",
+              "RelativeToolTip": "Tamagochi\\EstadoMascota.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T11:21:10.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EstadoHambre.cs",
+              "DocumentMoniker": "C:\\Users\\Lab15-PC01\\source\\repos\\POO-TAMAGOCHI\\Tamagochi\\EstadoHambre.cs",
+              "RelativeDocumentMoniker": "Tamagochi\\EstadoHambre.cs",
+              "ToolTip": "C:\\Users\\Lab15-PC01\\source\\repos\\POO-TAMAGOCHI\\Tamagochi\\EstadoHambre.cs",
+              "RelativeToolTip": "Tamagochi\\EstadoHambre.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T11:20:55.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EstadoFeliz.cs",
+              "DocumentMoniker": "C:\\Users\\Lab15-PC01\\source\\repos\\POO-TAMAGOCHI\\Tamagochi\\EstadoFeliz.cs",
+              "RelativeDocumentMoniker": "Tamagochi\\EstadoFeliz.cs",
+              "ToolTip": "C:\\Users\\Lab15-PC01\\source\\repos\\POO-TAMAGOCHI\\Tamagochi\\EstadoFeliz.cs",
+              "RelativeToolTip": "Tamagochi\\EstadoFeliz.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T11:20:30.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EstadoAburrido.cs",
+              "DocumentMoniker": "C:\\Users\\Lab15-PC01\\source\\repos\\POO-TAMAGOCHI\\Tamagochi\\EstadoAburrido.cs",
+              "RelativeDocumentMoniker": "Tamagochi\\EstadoAburrido.cs",
+              "ToolTip": "C:\\Users\\Lab15-PC01\\source\\repos\\POO-TAMAGOCHI\\Tamagochi\\EstadoAburrido.cs",
+              "RelativeToolTip": "Tamagochi\\EstadoAburrido.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T11:20:03.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tamagochi.cs",
+              "DocumentMoniker": "C:\\Users\\Lab15-PC01\\source\\repos\\POO-TAMAGOCHI\\Tamagochi\\Tamagochi.cs",
+              "RelativeDocumentMoniker": "Tamagochi\\Tamagochi.cs",
+              "ToolTip": "C:\\Users\\Lab15-PC01\\source\\repos\\POO-TAMAGOCHI\\Tamagochi\\Tamagochi.cs",
+              "RelativeToolTip": "Tamagochi\\Tamagochi.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T11:19:47.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Lab15-PC01\\source\\repos\\POO-TAMAGOCHI\\POO-TAMAGOCHI\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "POO-TAMAGOCHI\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Lab15-PC01\\source\\repos\\POO-TAMAGOCHI\\POO-TAMAGOCHI\\UnitTest1.cs",
+              "RelativeToolTip": "POO-TAMAGOCHI\\UnitTest1.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowDgAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T11:14:59.121Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
