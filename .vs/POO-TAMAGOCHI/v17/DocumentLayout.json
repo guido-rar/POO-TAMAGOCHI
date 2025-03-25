@@ -38,16 +38,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 6,
@@ -58,8 +50,7 @@
               "RelativeToolTip": "Tamagochi\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T12:03:48.34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T12:03:48.34Z"
             },
             {
               "$type": "Document",
@@ -71,8 +62,7 @@
               "RelativeToolTip": "Tamagochi\\EstadoMascota.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T11:21:10.887Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T11:21:10.887Z"
             },
             {
               "$type": "Document",
@@ -84,8 +74,7 @@
               "RelativeToolTip": "Tamagochi\\EstadoHambre.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAA1wBEAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T11:20:55.859Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T11:20:55.859Z"
             },
             {
               "$type": "Document",
@@ -97,8 +86,7 @@
               "RelativeToolTip": "Tamagochi\\EstadoFeliz.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T11:20:30.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T11:20:30.465Z"
             },
             {
               "$type": "Document",
@@ -110,8 +98,7 @@
               "RelativeToolTip": "Tamagochi\\EstadoAburrido.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAqwBAAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T11:20:03.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T11:20:03.396Z"
             },
             {
               "$type": "Document",
@@ -123,8 +110,7 @@
               "RelativeToolTip": "Tamagochi\\Tamagochi.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAqwA8AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T11:19:47.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T11:19:47.548Z"
             },
             {
               "$type": "Document",
@@ -134,7 +120,7 @@
               "RelativeDocumentMoniker": "POO-TAMAGOCHI\\UnitTest1.cs",
               "ToolTip": "C:\\Users\\Lab15-PC01\\source\\repos\\POO-TAMAGOCHI\\POO-TAMAGOCHI\\UnitTest1.cs",
               "RelativeToolTip": "POO-TAMAGOCHI\\UnitTest1.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAowDgAAABhAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowD0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T11:14:59.121Z",
               "EditorCaption": ""
